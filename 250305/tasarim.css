@@ -1,0 +1,149 @@
+:root{
+    --renk-koyu-mavi:#075192;
+    --renk-acik-mavi:#0c63a9;
+}
+
+
+/*Üst bölüm*/
+header{
+    background-color: var(--renk-koyu-mavi);
+}
+
+#main-menu{
+    background-color: var(--renk-acik-mavi);
+}
+
+#main-menu .nav-link{
+    color: #fff;
+}
+
+#site-baslik h2{
+    color: var(--renk-koyu-mavi);
+}
+
+
+#site-baslik h3{
+    color: var(--renk-acik-mavi);
+}
+
+#site-baslik h3{
+    color: var(--renk-acik-mavi);
+}
+
+/*Orta bölüm*/
+#baglanti-list .list-group-item{
+   background-color: var(--renk-acik-mavi);
+
+}
+#baglanti-list .nav-link{
+    color: #fff;
+}
+
+.carousel-indicators [data-bs-target]{
+    width: 75px;
+    height: auto;
+}
+
+#slider1 .carousel-caption h5{
+    background-color: #00000055;
+    color: #fff;
+    padding: 1rem 0;
+}
+/*Genel CSS*/
+.sol-ust-yuvarla{
+    border-top-left-radius: 1rem;
+}
+
+.sag-alt-yuvarla{
+    border-bottom-right-radius: 1rem !important;
+}
+
+/*Main satır 3*/
+#baslik-haber{
+    font-style: italic;
+    background-color: #e91246;
+    color: #fff;
+    text-align: center;
+    padding: 1.5rem;
+    border-bottom-right-radius: 1.5rem;
+    font-weight: 400;
+    font-size: 1.8rem;
+}
+#list-haber a{
+    color: #aaa;
+    text-decoration: none;
+}
+
+#list-haber a:hover{
+    color: #e91246;
+}
+
+#baslik-duyuru{
+    font-style: italic;
+    background-color: #FC6F20;
+    color: #fff;
+    text-align: center;
+    padding: 1.5rem;
+    border-bottom-right-radius: 1.5rem;
+    font-weight: 400;
+    font-size: 1.8rem;
+}
+
+#list-duyuru a{
+    color: #aaa;
+    text-decoration: none;
+}
+#list-duyuru a:hover{
+    color: #FC6F20;
+}
+
+#baslik-islem{
+    font-style: italic;
+    background-color: #71b908;
+    color: #fff;
+    text-align: center;
+    padding: 1.5rem;
+    border-bottom-right-radius: 1.5rem;
+    font-weight: 400;
+    font-size: 1.8rem;
+}
+
+#list-islem a{
+    color: #aaa;
+    text-decoration: none;
+}
+#list-islem a:hover{
+    color: #71b908;
+}
+
+#panel1 th{
+    color:var(--renk-acik-mavi)
+}
+
+.mavi-yazi{
+    color: var(--renk-koyu-mavi);
+}
+.btn-acik-mavi{
+    background-color: var(--renk-acik-mavi);
+    color: #fff;
+}
+.btn-acik-mavi:hover{
+    outline: 3px solid var(--renk-acik-mavi);
+    color: var(--renk-acik-mavi);
+}
+
+#panel1 .kurum-resim{
+    width: 100%;
+    height: 100px;
+    object-fit: fill;/*resmi bulunduğu alana sığdırır.*/
+}
+
+
+
+
+
+
+
+
+
+

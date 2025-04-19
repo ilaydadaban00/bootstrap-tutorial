@@ -1,0 +1,47 @@
+body{
+    color: var(--bs-white);
+}
+.nav-link{
+    color: #fff;
+}
+input[type="search"]::placeholder{
+    color: #fff;
+}#slider .carousel-indicators{
+    list-style: circle;
+}
+.carousel-indicators [data-bs-target]{
+    height: 10px;
+    width: 10px;
+    border-radius: 100%;
+    border: #333 solid 3px;
+    box-shadow: 0 0 5px  #a555;
+}.card-ic{
+    margin: 10px;
+    padding: 10px;
+}#kart-bolum{
+    position: relative;
+    top:-100px;
+    z-index: 100;
+}
+#kart h4,p{
+   color: #fff;
+}#footer{
+    margin-top: 10px;
+    padding-top: 50px;
+    
+}
+input[type="search"]:focus{
+    box-shadow: none;
+}
+footer .nav-link{
+    font-weight: bold;
+}#urunler p{
+    color: #333;
+}
+.breadcrumb a{
+    text-decoration: none;
+    color: #333;
+}
+#oneri{
+    font-weight: bold;
+}

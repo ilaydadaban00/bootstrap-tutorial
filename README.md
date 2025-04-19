@@ -10,16 +10,13 @@
 <details>
   <summary>250226</summary>
 	<ul>
-		<p><li>içecekler: col yapısı kart yapısı position</li></p>
-		
+		<p><li>içecekler: col yapısı kart yapısı position</li></p>	
 	<ul>
 </details>
 <details>
   <summary>250226</summary>
 	<ul>
 		<p><li>index: nav kullanmak html ikonu kullanmak carousel filsed</li></p>
-		
-		
 	<ul>
 </details>
 <details>
